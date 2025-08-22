@@ -1,24 +1,20 @@
 # python-calculator
 # Calculator (Python Project)
 
-## 📌 Overview
+## Overview
 This is a simple calculator project built using Python in Jupyter Notebook.  
 It performs basic arithmetic operations like **addition, subtraction, multiplication, and division**.
 
-## 🚀 Features
-- Addition, Subtraction, Multiplication, Division
-- User-friendly input/output
-- Built using Python
+## Features
+Addition, Subtraction, Multiplication, Division
+User-friendly input/output
+Built using Python
 
-## 🛠️ Technologies Used
-- Python 3
-- Jupyter Notebook
+## Technologies Used
+Python 3
+Jupyter Notebook
 
-## 📂 Project Files
-- `calculator.ipynb` → Main project notebook
-- `README.md` → Project description
-
-## ▶️ How to Run
-1. Download or clone the repository:
-   ```bash
+## Project Files
+calculator.ipynb` → Main project notebook
+README.md` → Project description
    
